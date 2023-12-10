@@ -11,6 +11,7 @@
 		4FCE4EB52B20F04100EF017A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCE4EB42B20F04100EF017A /* ContentView.swift */; };
 		4FCE4EB72B20F04200EF017A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FCE4EB62B20F04200EF017A /* Assets.xcassets */; };
 		4FCE4EBA2B20F04200EF017A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FCE4EB92B20F04200EF017A /* Preview Assets.xcassets */; };
+		4FCE4EC12B2102CE00EF017A /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCE4EC02B2102CE00EF017A /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4FCE4EB42B20F04100EF017A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4FCE4EB62B20F04200EF017A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FCE4EB92B20F04200EF017A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4FCE4EC02B2102CE00EF017A /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4FCE4EB22B20F04100EF017A /* SwiftUIAPICallsApp.swift */,
 				4FCE4EB42B20F04100EF017A /* ContentView.swift */,
+				4FCE4EC02B2102CE00EF017A /* ViewModel.swift */,
 				4FCE4EB62B20F04200EF017A /* Assets.xcassets */,
 				4FCE4EB82B20F04200EF017A /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FCE4EB52B20F04100EF017A /* ContentView.swift in Sources */,
+				4FCE4EC12B2102CE00EF017A /* ViewModel.swift in Sources */,
 				4FCE4EB32B20F04100EF017A /* SwiftUIAPICallsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
